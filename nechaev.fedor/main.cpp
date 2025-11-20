@@ -1,6 +1,6 @@
-#include <iostream> 
+#include <iostream>
 
 int main()
 {
-  std::cout << "nechaev.fedor\n";
+    std::cout << "nechaev.fedor\n";
 }
